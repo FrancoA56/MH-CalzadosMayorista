@@ -1,0 +1,362 @@
+[
+  {
+    "name": "ART 115 L",
+    "price": 3550,
+    "colors": ["Negro", "Gris", "Verde"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART 115 M",
+    "price": 3550,
+    "colors": ["Rojo", "Verde claro", "Rojo claro"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART 90",
+    "price": 3000,
+    "colors": ["Blanco", "Negro", "Azul", "Verde"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART 80",
+    "price": 3000,
+    "colors": ["Blanco", "Negro", "Azul", "Verde"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART 200 S",
+    "price": 3500,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "21/26"
+  },
+  {
+    "name": "ART 200 M",
+    "price": 3700,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 200 L",
+    "price": 3800,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART 200 XL",
+    "price": 3900,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "40/45"
+  },
+  {
+    "name": "ART 200 BOTA LONA S",
+    "price": 3800,
+    "colors": ["Negro"],
+    "size": "21/26"
+  },
+  {
+    "name": "ART 200 BOTA LONA M",
+    "price": 4000,
+    "colors": ["Negro"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 200 BOTA LONA L",
+    "price": 4100,
+    "colors": ["Negro"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART 200 BOTA LONA XL",
+    "price": 4200,
+    "colors": ["Negro"],
+    "size": "41/44"
+  },
+  {
+    "name": "ART 200 BASE ALTA",
+    "price": 4400,
+    "colors": ["Blanco"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART 777",
+    "price": 5200,
+    "colors": ["Negro", "Gris", "Rojo", "Azul"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART 652",
+    "price": 4200,
+    "colors": ["Negro", "Blanco", "Beige"],
+    "size": "35/44"
+  },
+  {
+    "name": "ART RUBI",
+    "price": 4000,
+    "colors": ["Negro"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART TELA",
+    "price": 4600,
+    "colors": ["Negro", "Azul", "Verde", "Rojo claro", "Rojo"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART TELA 2.0",
+    "price": 5100,
+    "colors": ["Verde claro", "Gris", "Rojo", "Violeta"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART OJOTA LISA HOMBRE",
+    "price": 1200,
+    "colors": ["Negro", "Gris", "Azul"],
+    "size": "35/46"
+  },
+  {
+    "name": "ART OJOTA LISA INFANTIL",
+    "price": 1000,
+    "colors": ["Negro", "Verde claro", "Rojo", "Azul", "Violeta"],
+    "size": "25/34"
+  },
+  {
+    "name": "ART OJOTA LISA DAMA",
+    "price": 1200,
+    "colors": ["Negro", "Dorado", "Rojo claro", "Azul claro", "Violeta"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA HOMBRE",
+    "price": 1400,
+    "colors": ["Negro", "Gris", "Rojo", "Dorado"],
+    "size": "35/46"
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA DAMA",
+    "price": 1400,
+    "colors": ["Negro", "Azul", "Violeta", "Rojo", "Azul claro"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA NIÑOS",
+    "price": 1200,
+    "colors": ["Negro", "Rojo", "Verde", "Azul", "Verde claro"],
+    "size": "25/34"
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA NIÑAS",
+    "price": 1200,
+    "colors": ["Azul claro", "Rojo claro", "Rojo", "Violeta", "Azul"],
+    "size": "25/34"
+  },
+  {
+    "name": "ART CROCS INFANTIL",
+    "price": 1900,
+    "colors": ["Negro", "Azul", "Verde claro", "Rojo", "Violeta"],
+    "size": "26/34"
+  },
+  {
+    "name": "ART CROCS DAMA",
+    "price": 2100,
+    "colors": ["Negro", "Verde claro", "Rojo claro", "Violeta"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART CROCS HOMBRE",
+    "price": 2100,
+    "colors": ["Negro"],
+    "size": "36/44"
+  },
+  {
+    "name": "ART BIRKENSTOCK GOMA",
+    "price": 1600,
+    "colors": ["Rojo claro", "Verde claro", "Blanco", "Negro", "Dorado"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART SANDALIAS FAJA",
+    "price": 5500,
+    "colors": ["Blanco", "Violeta", "Rojo claro"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 351",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 330",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 355",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 360",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 370",
+    "price": 5500,
+    "colors": ["Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 380",
+    "price": 5500,
+    "colors": ["Negro", "Beige"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 358",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 300",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Blanco"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART 350",
+    "price": 3430,
+    "colors": ["Blanco", "Azul", "Negro"],
+    "size": "35/41"
+  },
+  {
+    "name": "ART 356",
+    "price": 3635,
+    "colors": ["Rojo claro", "Rojo"],
+    "size": "35/41"
+  },
+  {
+    "name": "ART 455",
+    "price": 3190,
+    "colors": ["Blanco", "Negro"],
+    "size": "35/41"
+  },
+  {
+    "name": "ART 733",
+    "price": 5420,
+    "colors": ["Azul", "Verde", "Negro"],
+    "size": "35/44"
+  },
+  {
+    "name": "ART 256",
+    "price": 3030,
+    "colors": ["Negro", "Blanco", "Rojo claro", "Rojo"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 730",
+    "price": 5195,
+    "colors": ["Blanco", "Negro"],
+    "size": "35/45"
+  },
+  {
+    "name": "ART 207",
+    "price": 2560,
+    "colors": ["Rojo claro", "Rojo"],
+    "size": "20/25"
+  },
+  {
+    "name": "ART 333",
+    "price": 4575,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 335",
+    "price": 4385,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 400",
+    "price": 3800,
+    "colors": ["Rojo claro", "Negro"],
+    "size": "27/33"
+  },
+  {
+    "name": "ART 720",
+    "price": 3200,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34"
+  },
+  {
+    "name": "ART 760",
+    "price": 4575,
+    "colors": ["Rojo claro"],
+    "size": "20/26"
+  },
+  {
+    "name": "ART 780 L",
+    "price": 6800,
+    "colors": ["Negro", "Gris", "Azul", "Rojo claro", "Rojo"],
+    "size": "34/44"
+  },
+  {
+    "name": "ART 780 XL",
+    "price": 7000,
+    "colors": ["Negro", "Gris", "Azul", "Rojo claro", "Rojo"],
+    "size": "45/47"
+  },
+  {
+    "name": "ART 503",
+    "price": 6100,
+    "colors": ["Negro", "Azul", "Rojo", "Verde", "Gris"],
+    "size": "35/44"
+  },
+  {
+    "name": "ART MIA 1.0",
+    "price": 4500,
+    "colors": ["Negro", "Azul"],
+    "size": "35/42"
+  },
+  {
+    "name": "ART MIA 2.0",
+    "price": 4500,
+    "colors": ["Negro", "Azul"],
+    "size": "35/42"
+  },
+  {
+    "name": "ART BASE ALTA GOMA",
+    "price": 2200,
+    "colors": ["Dorado", "Violeta", "Rojo claro"],
+    "size": "36/40"
+  },
+  {
+    "name": "ART MAIA 20",
+    "price": 2070,
+    "colors": ["Azul"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART MAIA 10",
+    "price": 2270,
+    "colors": ["Rojo"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART MAIA 50",
+    "price": 2400,
+    "colors": ["Negro"],
+    "size": "35/40"
+  },
+  {
+    "name": "ART MAIA 30",
+    "price": 2200,
+    "colors": ["Negro"],
+    "size": "35/40"
+  }
+]
