@@ -1,0 +1,1 @@
+export const ADD_ALL_SHOES = "ADD_ALL_SHOES";

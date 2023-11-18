@@ -1,0 +1,665 @@
+[
+  {
+    "name": "ART 115 L",
+    "price": 3550,
+    "colors": ["Negro", "Gris", "Verde"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.57_gvmzj5.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.58_ihlehl.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.58_1_klcmg1.jpg"
+    ]
+  },
+  {
+    "name": "ART 115 M",
+    "price": 3550,
+    "colors": ["Rojo", "Verde claro", "Rojo claro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.58_2_rdzltu.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.59_1_ocucrp.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.04.59_huv9nh.jpg"
+    ]
+  },
+  {
+    "name": "ART 90",
+    "price": 3000,
+    "colors": ["Blanco", "Negro", "Azul", "Verde"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011042/WhatsApp_Image_2023-11-11_at_15.05.00_1_pcx4xl.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.01_lvepbr.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.00_l5sw9w.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.03_bg20sl.jpg"
+    ]
+  },
+  {
+    "name": "ART 80",
+    "price": 3000,
+    "colors": ["Blanco", "Negro", "Azul", "Verde"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.04_1_gy5shw.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.05_1_igltxj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.04_jvqbll.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011043/WhatsApp_Image_2023-11-11_at_15.05.05_stwgkq.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 S",
+    "price": 3500,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "21/26",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092000/WhatsApp_Image_2023-11-11_at_14.53.28_1_ralj8g.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.28_yxj9mp.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/a_t1gauu.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 M",
+    "price": 3700,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092000/WhatsApp_Image_2023-11-11_at_14.53.28_1_ralj8g.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.28_yxj9mp.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/a_t1gauu.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 L",
+    "price": 3800,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.30_gdxgyb.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.30_1_tqfmye.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.29_gy8pt2.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 XL",
+    "price": 3900,
+    "colors": ["Negro", "Blanco", "Beige", "Rojo"],
+    "size": "40/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.30_gdxgyb.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.30_1_tqfmye.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.29_gy8pt2.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 BOTA LONA S",
+    "price": 3800,
+    "colors": ["Negro"],
+    "size": "21/26",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.54_tlxtoz.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 BOTA LONA M",
+    "price": 4000,
+    "colors": ["Negro"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.54_tlxtoz.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 BOTA LONA L",
+    "price": 4100,
+    "colors": ["Negro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.54_tlxtoz.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 BOTA LONA XL",
+    "price": 4200,
+    "colors": ["Negro"],
+    "size": "41/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.53.54_tlxtoz.jpg"
+    ]
+  },
+  {
+    "name": "ART 200 BASE ALTA",
+    "price": 4400,
+    "colors": ["Blanco"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092001/WhatsApp_Image_2023-11-11_at_14.54.19_h7ysqt.jpg"
+    ]
+  },
+  {
+    "name": "ART 777",
+    "price": 5200,
+    "colors": ["Negro", "Gris", "Rojo", "Azul", "Rojo claro"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015603/WhatsApp_Image_2023-11-14_at_23.25.27_yt07he.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015603/WhatsApp_Image_2023-11-14_at_23.26.38_q2x4wq.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015604/WhatsApp_Image_2023-11-14_at_23.29.21_ahoi8b.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015603/WhatsApp_Image_2023-11-14_at_23.28.50_lamxl0.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015603/WhatsApp_Image_2023-11-14_at_23.27.14_nreqzt.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015604/WhatsApp_Image_2023-11-14_at_23.30.09_fznczh.jpg"
+    ]
+  },
+  {
+    "name": "ART 652",
+    "price": 4200,
+    "colors": ["Negro", "Blanco", "Beige"],
+    "size": "35/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011358/WhatsApp_Image_2023-11-11_at_14.50.49_fysmvh.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011358/WhatsApp_Image_2023-11-11_at_14.50.47_1_whrzgo.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011358/WhatsApp_Image_2023-11-11_at_14.50.47_2_c6yh35.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011358/WhatsApp_Image_2023-11-11_at_14.50.47_jdj1ab.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011358/WhatsApp_Image_2023-11-11_at_14.50.46_swwega.jpg"
+    ]
+  },
+  {
+    "name": "ART RUBI",
+    "price": 4000,
+    "colors": ["Negro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700015583/WhatsApp_Image_2023-11-14_at_23.22.29_wvfniy.jpg"
+    ]
+  },
+  {
+    "name": "ART TELA",
+    "price": 4600,
+    "colors": ["Negro", "Azul", "Verde", "Rojo claro", "Rojo"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011469/WhatsApp_Image_2023-11-11_at_14.57.59_1_vhpd5j.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011469/WhatsApp_Image_2023-11-11_at_14.57.59_l352ji.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011469/WhatsApp_Image_2023-11-11_at_14.57.59_2_br1n0d.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011469/WhatsApp_Image_2023-11-11_at_14.57.58_figasr.jpg"
+    ]
+  },
+  {
+    "name": "ART TELA 2.0",
+    "price": 5100,
+    "colors": ["Verde claro", "Gris", "Rojo", "Violeta"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011470/WhatsApp_Image_2023-11-11_at_14.58.40_anpqow.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011470/WhatsApp_Image_2023-11-11_at_14.58.40_2_tm6hdr.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011470/WhatsApp_Image_2023-11-11_at_14.58.40_1_tpq65j.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011470/WhatsApp_Image_2023-11-11_at_14.58.39_l9tmhg.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA LISA HOMBRE",
+    "price": 1200,
+    "colors": ["Negro", "Gris", "Azul"],
+    "size": "35/46",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014310/negro_ojota_itfyc1.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014340/gris_ojota_vi8mnw.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013274/azul_ojota_ozzp7k.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA LISA INFANTIL",
+    "price": 1000,
+    "colors": ["Negro", "Verde claro", "Rojo", "Azul", "Violeta"],
+    "size": "25/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014471/ojota_ni%C3%B1o_azul_mmquhi.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014562/ojota_nio_rojo_zoomjx.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014595/ojota_ni%C3%B1o_turquesa_ukxf5b.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014613/ojota_ni%C3%B1o_violeta_twteew.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014578/ojota_ni%C3%B1o_negro_yuil97.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA LISA DAMA",
+    "price": 1200,
+    "colors": ["Negro", "Dorado", "Rojo claro", "Azul claro", "Violeta"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014421/ojota_dama_celeste_w6tyji.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014362/ojota_dama_dorada_chypr0.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014439/ojota_dama_negra_oepofu.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014544/ojota_violeta_dama_rxwfjr.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014630/ojota_dama_roja_a7i3te.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA HOMBRE",
+    "price": 1400,
+    "colors": ["Negro", "Gris", "Rojo", "Dorado"],
+    "size": "35/46",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014145/estampado_hombr_rpqd7r.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013872/estampado_hombn_zm9jun.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013923/estampado_hombreee_jnew0l.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013944/estampadohomvre_zr00em.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA DAMA",
+    "price": 1400,
+    "colors": ["Negro", "Azul", "Violeta", "Rojo", "Azul claro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013975/estampado_fdokbx.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013853/estampadao_dama_szycqy.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013975/estampado_fdokbx.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013828/estampad2_gfgbnc.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013806/estampa2_ld6ywo.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA NIÑOS",
+    "price": 1200,
+    "colors": ["Negro", "Rojo", "Verde", "Azul", "Verde claro"],
+    "size": "25/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014529/ojotas_estampado_ni%C3%B1os_l9umns.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014056/estampado_ni%C3%B1o2_vtcvfj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014495/estampado_ni%C3%B1o12_lybuwn.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014286/estampado2_ni%C3%B1o_njphbs.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014124/estampado_nio_bqzvwk.jpg"
+    ]
+  },
+  {
+    "name": "ART OJOTA ESTAMPADA NIÑAS",
+    "price": 1200,
+    "colors": ["Azul claro", "Rojo claro", "Rojo", "Violeta", "Azul"],
+    "size": "25/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014080/estampado_ni%C3%B1o_hl7a3v.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013895/estampado_ni%C3%B1a_h0yak5.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014103/estampado_wachina_lckjlq.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014166/estampado_ni%C3%B1ita_chnwjp.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700097578/estampado_ni%C3%B1ii%C3%B1ita_vevy6e.jpg"
+    ]
+  },
+  {
+    "name": "ART CROCS INFANTIL",
+    "price": 1900,
+    "colors": ["Negro", "Azul", "Verde claro", "Rojo", "Violeta"],
+    "size": "26/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013768/crocsrojani%C3%B1o_ecvqat.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013701/crocslilani%C3%B1o_fvnxba.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013351/crocni%C3%B1oceleste_afdirv.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013722/crocsni%C3%B1onegro_gvtplx.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013787/crocsni%C3%B1oazul_lhcskx.jpg"
+    ]
+  },
+  {
+    "name": "ART CROCS DAMA",
+    "price": 2100,
+    "colors": ["Negro", "Verde claro", "Rojo claro", "Violeta"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013631/crocshombrenegro_x2gtmz.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013556/crocsdama_violeta_ocxulj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013461/crocs_rosa_dama_mbqn6m.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700014512/turquesamcrocs_sffece.jpg"
+    ]
+  },
+  {
+    "name": "ART CROCS HOMBRE",
+    "price": 2100,
+    "colors": ["Negro"],
+    "size": "36/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013317/corchombre_x3po71.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013662/crocshombren_sxui5g.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700013747/crocsnegrohombre_bkbfo7.jpg"
+    ]
+  },
+  {
+    "name": "ART BIRKENSTOCK GOMA",
+    "price": 1600,
+    "colors": ["Rojo claro", "Verde claro", "Blanco", "Negro", "Dorado"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700231810/BIRKENSTOCK_2_oveskj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700231825/BIRKENSTOCK_3_ykmhaq.jpg"
+    ]
+  },
+  {
+    "name": "ART SANDALIAS FAJA",
+    "price": 5500,
+    "colors": ["Blanco", "Violeta", "Rojo claro"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092186/WhatsApp_Image_2023-11-11_at_15.10.12_3_li91bw.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092186/WhatsApp_Image_2023-11-11_at_15.10.12_sf0277.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092186/WhatsApp_Image_2023-11-11_at_15.10.12_1_as3c8h.jpg"
+    ]
+  },
+  {
+    "name": "ART 351",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094210/art351beige_qwzlfh.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094277/art351negro_qfi20a.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094979/art351suela_kuopdm.jpg"
+    ]
+  },
+  {
+    "name": "ART 330",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700093816/art330beige_lhpql7.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094088/art330negro_yn74dm.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094109/art330suela_vwuydj.jpg"
+    ]
+  },
+  {
+    "name": "ART 355",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094574/art355negro_cd9vwk.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700094680/art355beige_votcem.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700095117/art355suela_t82xfq.jpg"
+    ]
+  },
+  {
+    "name": "ART 360",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096625/art360negro_uwgagp.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096102/art360beige_f8crxj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096601/art360suela_gltqwu.jpg"
+    ]
+  },
+  {
+    "name": "ART 370",
+    "price": 5500,
+    "colors": ["Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096389/art370suela_khwqqc.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700093570/art370beige_xsjgje.jpg"
+    ]
+  },
+  {
+    "name": "ART 380",
+    "price": 5500,
+    "colors": ["Negro", "Beige"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096356/art380negro_ljwfhc.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096325/art380suela_lvneqr.jpg"
+    ]
+  },
+  {
+    "name": "ART 358",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Gris"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700095978/art358negro_obgfny.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700096078/art358plata_kmbebn.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700095357/art358dorado_nexzda.jpg"
+    ]
+  },
+  {
+    "name": "ART 300",
+    "price": 5500,
+    "colors": ["Negro", "Beige", "Blanco"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700093726/art300negro_akgxwj.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700093684/art300suela_yfuzqx.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700093628/art300beige_h7a8xh.jpg"
+    ]
+  },
+  {
+    "name": "ART 350",
+    "price": 3430,
+    "colors": ["Blanco", "Azul", "Negro"],
+    "size": "35/41",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010739/WhatsApp_Image_2023-11-11_at_15.21.28_q6czce.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010740/WhatsApp_Image_2023-11-11_at_15.21.30_1_hriicy.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010741/WhatsApp_Image_2023-11-11_at_15.21.30_uih5zt.jpg"
+    ]
+  },
+  {
+    "name": "ART 356",
+    "price": 3635,
+    "colors": ["Rojo claro", "Rojo"],
+    "size": "35/41",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010740/WhatsApp_Image_2023-11-11_at_15.21.30_3_oeur5x.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010740/WhatsApp_Image_2023-11-11_at_15.21.30_2_fklb7n.jpg"
+    ]
+  },
+  {
+    "name": "ART 455",
+    "price": 3190,
+    "colors": ["Blanco", "Negro"],
+    "size": "35/41",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010741/WhatsApp_Image_2023-11-11_at_15.21.31_1_l0gv7t.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010741/WhatsApp_Image_2023-11-11_at_15.21.31_u9kzps.jpg"
+    ]
+  },
+  {
+    "name": "ART 733",
+    "price": 5420,
+    "colors": ["Azul", "Verde", "Negro"],
+    "size": "35/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010741/WhatsApp_Image_2023-11-11_at_15.21.32_1_gzzbng.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010743/WhatsApp_Image_2023-11-11_at_15.21.33_py9jtb.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010746/WhatsApp_Image_2023-11-11_at_15.21.36_2_gxd8fm.jpg"
+    ]
+  },
+  {
+    "name": "ART 256",
+    "price": 3030,
+    "colors": ["Negro", "Blanco", "Rojo claro", "Rojo"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010742/WhatsApp_Image_2023-11-11_at_15.21.32_zlrmuz.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010743/WhatsApp_Image_2023-11-11_at_15.21.34_1_ftsw1k.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010744/WhatsApp_Image_2023-11-11_at_15.21.34_s50kiq.jpg"
+    ]
+  },
+  {
+    "name": "ART 730",
+    "price": 5195,
+    "colors": ["Blanco", "Negro"],
+    "size": "35/45",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010742/WhatsApp_Image_2023-11-11_at_15.21.33_2_dgikd5.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010742/WhatsApp_Image_2023-11-11_at_15.21.33_1_ljlxoh.jpg"
+    ]
+  },
+  {
+    "name": "ART 207",
+    "price": 2560,
+    "colors": ["Rojo claro", "Rojo"],
+    "size": "20/25",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010743/WhatsApp_Image_2023-11-11_at_15.21.34_2_atzsgm.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010744/WhatsApp_Image_2023-11-11_at_15.21.34_3_qtgerk.jpg"
+    ]
+  },
+  {
+    "name": "ART 333",
+    "price": 4575,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010745/WhatsApp_Image_2023-11-11_at_15.21.35_qg5q2o.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010744/WhatsApp_Image_2023-11-11_at_15.21.35_1_x8ioxs.jpg"
+    ]
+  },
+  {
+    "name": "ART 335",
+    "price": 4385,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010745/WhatsApp_Image_2023-11-11_at_15.21.36_1_qvqwuu.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010747/WhatsApp_Image_2023-11-11_at_15.21.36_buqbqh.jpg"
+    ]
+  },
+  {
+    "name": "ART 400",
+    "price": 3800,
+    "colors": ["Rojo claro", "Negro"],
+    "size": "27/33",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010747/WhatsApp_Image_2023-11-11_at_15.23.01_1_nukdpo.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010747/WhatsApp_Image_2023-11-11_at_15.23.01_2_s7wksr.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010748/WhatsApp_Image_2023-11-11_at_15.23.01_ah8b80.jpg"
+    ]
+  },
+  {
+    "name": "ART 720",
+    "price": 3200,
+    "colors": ["Negro", "Azul"],
+    "size": "27/34",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010748/WhatsApp_Image_2023-11-11_at_15.23.02_1_bzqkwd.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010749/WhatsApp_Image_2023-11-11_at_15.23.02_ntqj82.jpg"
+    ]
+  },
+  {
+    "name": "ART 760",
+    "price": 4575,
+    "colors": ["Rojo claro"],
+    "size": "20/26",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010749/WhatsApp_Image_2023-11-11_at_15.23.02_2_cc8w8z.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010749/WhatsApp_Image_2023-11-11_at_15.23.04_ykmavq.jpg"
+    ]
+  },
+  {
+    "name": "ART 780 L",
+    "price": 6800,
+    "colors": ["Negro", "Gris", "Azul", "Rojo claro", "Rojo"],
+    "size": "34/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010276/WhatsApp_Image_2023-11-11_at_15.24.08_2_cpoujs.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010367/WhatsApp_Image_2023-11-11_at_15.24.08_1_yo8h4h.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010480/WhatsApp_Image_2023-11-11_at_15.24.08_3_nmjnl4.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010485/WhatsApp_Image_2023-11-11_at_15.24.09_lnqrrg.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010585/WhatsApp_Image_2023-11-11_at_15.24.07_wqcvic.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010605/WhatsApp_Image_2023-11-11_at_15.24.08_ipiwgp.jpg"
+    ]
+  },
+  {
+    "name": "ART 780 XL",
+    "price": 7000,
+    "colors": ["Negro", "Gris", "Azul", "Rojo claro", "Rojo"],
+    "size": "45/47",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010276/WhatsApp_Image_2023-11-11_at_15.24.08_2_cpoujs.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010367/WhatsApp_Image_2023-11-11_at_15.24.08_1_yo8h4h.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010480/WhatsApp_Image_2023-11-11_at_15.24.08_3_nmjnl4.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010485/WhatsApp_Image_2023-11-11_at_15.24.09_lnqrrg.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010585/WhatsApp_Image_2023-11-11_at_15.24.07_wqcvic.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700010605/WhatsApp_Image_2023-11-11_at_15.24.08_ipiwgp.jpg"
+    ]
+  },
+  {
+    "name": "ART 503",
+    "price": 6100,
+    "colors": ["Negro", "Azul", "Rojo", "Verde", "Gris"],
+    "size": "35/44",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011308/WhatsApp_Image_2023-11-11_at_14.52.25_3_cz2ht7.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.26_3_qvxuxh.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.27_2_cmsbh5.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.20_mtz3u0.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.23_o57spf.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.24_1_xdwya9.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011309/WhatsApp_Image_2023-11-11_at_14.52.24_2_oezd3i.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011310/WhatsApp_Image_2023-11-11_at_14.52.24_3_ag3uem.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011310/WhatsApp_Image_2023-11-11_at_14.52.24_jh8nt9.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011310/WhatsApp_Image_2023-11-11_at_14.52.25_1_jcovel.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700011310/WhatsApp_Image_2023-11-11_at_14.52.25_2_ojdvy8.jpg"
+    ]
+  },
+  {
+    "name": "ART MIA 1.0",
+    "price": 4500,
+    "colors": ["Negro", "Azul"],
+    "size": "35/42",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092159/WhatsApp_Image_2023-11-11_at_14.59.43_2_pxrvp6.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092159/WhatsApp_Image_2023-11-11_at_14.59.44_wlfjf1.jpg"
+    ]
+  },
+  {
+    "name": "ART MIA 2.0",
+    "price": 4500,
+    "colors": ["Negro", "Azul"],
+    "size": "35/42",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092159/WhatsApp_Image_2023-11-11_at_14.59.43_mfvdbh.jpg",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092159/WhatsApp_Image_2023-11-11_at_14.59.43_1_ieavc1.jpg"
+    ]
+  },
+  {
+    "name": "ART BASE ALTA GOMA",
+    "price": 2200,
+    "colors": ["Dorado", "Violeta", "Rojo claro"],
+    "size": "36/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700234840/BASE_ALTA_GOMA_zazcww.png",
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700234840/BASE_ALTA_GOMA_2_r9b2ux.png"
+    ]
+  },
+  {
+    "name": "ART MAIA 20",
+    "price": 2070,
+    "colors": ["Azul"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092109/WhatsApp_Image_2023-11-11_at_15.00.24_iceocl.jpg"
+    ]
+  },
+  {
+    "name": "ART MAIA 10",
+    "price": 2270,
+    "colors": ["Rojo"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092108/WhatsApp_Image_2023-11-11_at_15.00.26_xhcoag.jpg"
+    ]
+  },
+  {
+    "name": "ART MAIA 50",
+    "price": 2400,
+    "colors": ["Negro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092109/WhatsApp_Image_2023-11-11_at_15.00.25_1_x29eji.jpg"
+    ]
+  },
+  {
+    "name": "ART MAIA 30",
+    "price": 2200,
+    "colors": ["Negro"],
+    "size": "35/40",
+    "img": [
+      "https://res.cloudinary.com/drkgg7pw5/image/upload/v1700092108/WhatsApp_Image_2023-11-11_at_15.00.25_ijhdng.jpg"
+    ]
+  }
+]
